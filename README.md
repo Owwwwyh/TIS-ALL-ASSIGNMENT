@@ -1,5 +1,5 @@
 ## Submission
-Hello My Name is Ow Yee Hao,this is my report and video link of my design thinking project for the course SECP1513-05,Technology and Information System.
+Hello My Name is Ow Yee Hao,this is all my assignment for the course SECP1513-05,Technology and Information System.
 
 | Assignment | Description  | Reflection |
 | :-----: |  ------ | :-----: | 
