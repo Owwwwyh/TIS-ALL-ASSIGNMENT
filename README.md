@@ -1,4 +1,4 @@
-## MY ASSIGNMENT DURING MY FIRST YEAR FIRST SEMESTER<br><br> <<TECHNOLOGY AND INFORMATION SYSTEM>>
+## MY ASSIGNMENT DURING MY FIRST YEAR FIRST SEMESTER<br><br> <TECHNOLOGY AND INFORMATION SYSTEM>
 
 Hello My Name is Ow Yee Hao,this is all my assignment for the course SECP1513-05,Technology and Information System.
 
